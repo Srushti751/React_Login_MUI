@@ -1,0 +1,69 @@
+{
+    "products":[
+        {
+            "id":1,
+            "pname":"mobile",
+            "prod":"Rs.1000",
+            "quantity":1,
+            "image":"images/i1.jpg"
+        },
+        {
+            "id":2,
+            "pname":"Fan",
+            "prod":"Rs.1000",
+            "quantity":1,
+            "image":"images/i2.jpg"
+
+        },
+        {
+            "id":3,
+            "pname":"Fridge",
+            "prod":"Rs.1000",
+            "quantity":1,
+            "image":"images/i3.jpg"
+
+        },
+        {
+            "id":4,
+
+            "pname":"shoes",
+            "prod":"Rs.1000",
+            "quantity":1,
+            "image":"images/i4.jpg"
+
+        },
+        {
+            "id":5,
+            "pname":"Shirt",
+            "prod":"Rs.1000",
+            "quantity":1,
+            "image":"images/i5.jpg"
+
+        },
+        {
+            "id":6,
+            "pname":"TV",
+            "prod":"Rs.1000",
+            "quantity":1,
+            "image":"images/i6.jpg"
+
+        },
+        {
+            "id":7,
+            "pname":"Jeans",
+            "prod":"Rs.1000",
+            "quantity":1,
+            "image":"images/i7.jpg"
+
+        },
+        {
+            "id":8,
+            "pname":"Heels",
+            "prod":"Rs.1000",
+            "quantity":1,
+            "image":"images/i8.jpg"
+
+        }
+
+    ]
+}
